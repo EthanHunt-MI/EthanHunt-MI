@@ -39,20 +39,3 @@ while i < len(liste):
 
 
 
-
-
-
-
-'''
-while i < len(kelime):
-    harfYasagi = False
-    harf_tahmin = input('harf tahmininiz: ')
-
-    for harf in kelime:
-        if harf_tahmin == harf:
-            harfYasagi = True
-            adam_asmaca_kelimesi += harf
-    i += 1
-    harfYasagi = False
-print(adam_asmaca_kelimesi) 
-'''
